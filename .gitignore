@@ -1,0 +1,2 @@
+# Ignorar la carpeta específica de node_modules
+/front-end/front-end-barberia/node_modules/
